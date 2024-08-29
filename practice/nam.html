@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Room Maintenance Form</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<div class="form-container">
+    <h2>Room Maintenance Form</h2>
+    <form action="/submit-request" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" required><br><br>
+        <label for="room-number">Room Number:</label>
+        <input type="text"  required><br><br>
+        <label for="issue-type">Type of Issue:</label>
+        <textarea id="issue-type" rows="3" required></textarea><br><br>
+        <label for="description">Description:</label>
+        <textarea id="description"  rows="4" required></textarea><br><br>
+        <label for="urgency">Urgency:</label>
+        <textarea id="urgency"  rows="1" required></textarea><br><br>
+
+        <button type="submit">Submit </button>
+    </form>
+
+
+</div>    
+</body>
+</html>

@@ -1,0 +1,16 @@
+h2{
+    block-size: auto;
+}
+
+body{
+    background-color: antiquewhite;
+}
+h2{
+    hyphens: auto;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-style:inherit;
+}
