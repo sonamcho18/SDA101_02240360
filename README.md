@@ -1,25 +1,21 @@
-# Practical Assignment 3
+# Pratical Assingment 4 (Phase 2)
 
 ## Project Overview
- HTML and CSS are essential tools that introduce learners to the world of web development.
-They help learners understand how web pages are structured and styled.
+This assignment is done with two phases,the first phase was designed in figma 
+and the second phase is designed using HTML and CSS. 
 
-## Usage
-Helps in using code and developing skills which we learn in the virtual and practical classes.
-Supports across all modern browers and web platforms.
+## Usage 
+Helps users learn web designing and web page development in different field.
+Helps in developing skills.
 
-## Challenge and Solution
-challenged in resizing and reshaping the images
-Sol- Watched youtube videos and used chat GPT
+## Challenge and Solution 
 
-## Future Improvement
-Planning to create a inovatative and a creative web design with more pratice.
+
+## Future Improvement 
+
 
 ## References
-https://youtu.be/yU_JgeAIRko?si=VkfK5yW7QMNerUM4
-https://youtu.be/hyBtQfvCzHI?si=thOZsXg8Q0sfQhCc
+Figma 
 Chat GPT
-Gemeni
-Notes Uploaded in VLE
-
-
+https://youtu.be/_XQ86G8n-K4?si=PEWRDUVwj9QEI0PQ
+https://youtu.be/7UIBIaEZVWw?si=8tNzJE1lFWfrM9XZ
